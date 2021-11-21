@@ -1,0 +1,10 @@
+C:\Users\Chest\source\repos\Time Converter\Time Converter\obj\Debug\Time Converter.csprojAssemblyReference.cache
+C:\Users\Chest\source\repos\Time Converter\Time Converter\obj\Debug\Time_Converter.Form1.resources
+C:\Users\Chest\source\repos\Time Converter\Time Converter\obj\Debug\Time_Converter.Properties.Resources.resources
+C:\Users\Chest\source\repos\Time Converter\Time Converter\obj\Debug\Time Converter.csproj.GenerateResource.cache
+C:\Users\Chest\source\repos\Time Converter\Time Converter\obj\Debug\Time Converter.csproj.CoreCompileInputs.cache
+C:\Users\Chest\source\repos\Time Converter\Time Converter\bin\Debug\Time Converter.exe.config
+C:\Users\Chest\source\repos\Time Converter\Time Converter\bin\Debug\Time Converter.exe
+C:\Users\Chest\source\repos\Time Converter\Time Converter\bin\Debug\Time Converter.pdb
+C:\Users\Chest\source\repos\Time Converter\Time Converter\obj\Debug\Time Converter.exe
+C:\Users\Chest\source\repos\Time Converter\Time Converter\obj\Debug\Time Converter.pdb
